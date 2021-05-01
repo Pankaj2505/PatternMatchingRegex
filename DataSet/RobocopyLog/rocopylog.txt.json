@@ -1,0 +1,47 @@
+{
+ "logFileName": "C:\\Users\\PankajBhatt\\Desktop\\Applied AI\\PatternMatching\\DataSet\\RobocopyLog\\rocopylog.txt",
+ "directory": {
+  "Source": "C:\\RegularExpressionsWithDotNet\\robocopytest\\source\\தமிழ்\\हिन्दी\\English",
+  "Dest": "C:\\RegularExpressionsWithDotNet\\robocopytest\\destn"
+ },
+ "matrics": [
+  [
+   "type",
+   "total",
+   "copied",
+   "skipped",
+   "mismatch",
+   "failed",
+   "extras"
+  ],
+  [
+   "Dirs :",
+   "7",
+   "6",
+   "1",
+   "0",
+   "0",
+   "0"
+  ],
+  [
+   "Files :",
+   "29",
+   "29",
+   "0",
+   "0",
+   "0",
+   "0"
+  ],
+  [
+   "Bytes :",
+   "133567",
+   "133567",
+   "0",
+   "0",
+   "0",
+   "0"
+  ]
+ ],
+ "error": false,
+ "errorMessage": ""
+}
